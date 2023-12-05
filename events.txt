@@ -1,0 +1,63 @@
+Los Angeles Lakers,2023-12-04,19:00,http://streamingsite.com/lakers-game
+
+Los Angeles Lakers,2023-12-11,19:00,http://streamingsite.com/lakers-game2
+
+Los Angeles Lakers,2024-01-04,19:00,http://streamingsite.com/lakers-game3
+
+New York Yankees,2023-12-04,16:00,http://streamingsite.com/yankees-game
+
+New York Yankees,2023-12-11,16:00,http://streamingsite.com/yankees-game2
+
+New York Yankees,2024-01-04,16:00,http://streamingsite.com/yankees-game3
+
+Manchester United,2023-12-04,15:00,http://streamingsite.com/manutd-game
+
+Manchester United,2023-12-11,15:00,http://streamingsite.com/manutd-game2
+
+Manchester United,2024-01-04,15:00,http://streamingsite.com/manutd-game3
+
+Pittsburgh Steelers,2023-12-04,20:00,http://streamingsite.com/steelers-game
+
+Pittsburgh Steelers,2023-12-11,20:00,http://streamingsite.com/steelers-game2
+
+Pittsburgh Steelers,2024-01-04,20:00,http://streamingsite.com/steelers-game3
+
+Toronto Maple Leafs,2023-12-04,17:00,http://streamingsite.com/mapleleafs-game
+
+Toronto Maple Leafs,2023-12-11,17:00,http://streamingsite.com/mapleleafs-game2
+
+Toronto Maple Leafs,2024-01-04,17:00,http://streamingsite.com/mapleleafs-game3
+
+Boston Celtics,2023-12-04,18:00,http://streamingsite.com/celtics-game
+
+Boston Celtics,2023-12-11,18:00,http://streamingsite.com/celtics-game2
+
+Boston Celtics,2024-01-04,18:00,http://streamingsite.com/celtics-game3
+
+Real Madrid,2023-12-04,14:00,http://streamingsite.com/realmadrid-game
+
+Real Madrid,2023-12-11,14:00,http://streamingsite.com/realmadrid-game2
+
+Real Madrid,2024-01-04,14:00,http://streamingsite.com/realmadrid-game3
+
+New York Mets,2023-11-20,16:00,http://streamingsite.com/mets-game
+
+Pittsburgh Penguins,2023-11-25,20:00,http://streamingsite.com/penguins-game
+
+Miami Heat,2023-11-20,17:00,http://streamingsite.com/heat-game
+
+Chicago Bulls,2023-11-20,21:00,http://streamingsite.com/bulls-game
+
+Los Angeles Dodgers,2023-11-21,12:00,http://streamingsite.com/dodgers-game
+
+Golden State Warriors,2023-11-20,22:00,http://streamingsite.com/warriors-game
+
+Dallas Cowboys,2023-11-23,19:00,http://streamingsite.com/cowboys-game
+
+Houston Rockets,2023-11-24,19:00,http://streamingsite.com/rockets-game
+
+Seattle Seahawks,2023-11-25,20:00,http://streamingsite.com/seahawks-game
+
+Barcelona FC,2023-11-26,21:00,http://streamingsite.com/barcelona-game
+
+Juventus,2023-11-27,18:00,http://streamingsite.com/juventus-game
